@@ -5,7 +5,13 @@ Tines que tener Python 3.11 instalado. Una vez verificado, instala las dependenc
 -Instalación de las librerías principales
 
 pip install opencv-python
+
 pip install mediapipe==0.10.11
+
+De lo contrario cambiara una version mas reciente
+
+python 3.13
+pip install mediapipe==0.10.35
 
 
 - Archivos dispensables del Proyecto
